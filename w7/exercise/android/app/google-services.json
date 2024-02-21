@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200652648221",
+    "project_id": "w7lab-e8cc9",
+    "storage_bucket": "w7lab-e8cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200652648221:android:40f0ad1b7e9eb58a72fbf4",
+        "android_client_info": {
+          "package_name": "com.example.w7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtpr7zHwNE0BJwfG8Eo_9SodK1nq-hvyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
